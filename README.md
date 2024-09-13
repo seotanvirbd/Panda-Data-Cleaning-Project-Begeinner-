@@ -1,4 +1,5 @@
 # 🐼 Pandas for Beginners: Clean and Analyze Data Like a Pro
+## You may find the step-by-step video tutorial about this project on [▶️ YouTube](https://youtu.be/G_hdXJdw3zM).
 
 ![Pandas Logo](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)
 
